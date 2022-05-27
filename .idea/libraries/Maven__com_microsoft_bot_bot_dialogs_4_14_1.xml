@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.microsoft.bot:bot-dialogs:4.14.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/microsoft/bot/bot-dialogs/4.14.1/bot-dialogs-4.14.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/microsoft/bot/bot-dialogs/4.14.1/bot-dialogs-4.14.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/microsoft/bot/bot-dialogs/4.14.1/bot-dialogs-4.14.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
