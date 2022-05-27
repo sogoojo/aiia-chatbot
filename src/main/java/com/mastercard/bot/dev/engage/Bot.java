@@ -36,7 +36,7 @@ public class Bot extends ActivityHandler {
     String redirectUrl = withConfiguration.getProperty("redirect");
     String  location=  baseUrl+"client_id="+clientId+"&scope=accounts%20offline_access%20payments:inbound%20payments:outbound&redirect_uri="+redirectUrl+"&response_type=code";
 
-    private final String welcomeMessage = "Welcome to aiia open banking chat bot \r\n Continue by linking account/s to the chat bot";
+    private final String welcomeMessage = "Welcome to Aiia open banking chat bot \r\n Continue by linking account/s to the chat bot";
 
     private ConversationReferences conversationReferences;
 
